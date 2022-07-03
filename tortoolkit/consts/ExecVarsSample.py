@@ -5,17 +5,17 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
+        API_HASH = "511a5a47b77f0735bfb48ad334ff87d8"
+        API_ID = 10727066
+        BOT_TOKEN = "5325723746:AAHuQqbS3LDM8pp4Ib6nOoYpockSx0ER1-U"
         BASE_URL_OF_BOT = ""
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = []
-        OWNER_ID = 0
+        ALD_USR = [1001585403777]
+        OWNER_ID = 1355945222
         
         # Google Drive Index Link should include the base dir also See readme for more info
         GD_INDEX_URL = False
