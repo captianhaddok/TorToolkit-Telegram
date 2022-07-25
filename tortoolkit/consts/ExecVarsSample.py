@@ -3,22 +3,22 @@ try:
 except:
     class ExecVars:
         # Set true if its VPS
-        IS_VPS = False
+        IS_VPS = True
         
-        API_HASH = "511a5a47b77f0735bfb48ad334ff87d8"
-        API_ID = 10727066
-        BOT_TOKEN = "5325723746:AAHuQqbS3LDM8pp4Ib6nOoYpockSx0ER1-U"
-        BASE_URL_OF_BOT = "http://20.2.89.119"
+        API_HASH = "a4568c73c52783249f2aae395eafcb0a"
+        API_ID = 8520360
+        BOT_TOKEN = "5525754355:AAHii3qwtxRJrDh3smuJNvTQe1_oahXcE7w"
+        BASE_URL_OF_BOT = "http://t.me/newnenwnenwe_bot"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [1001585403777]
-        OWNER_ID = 1355945222
+        ALD_USR = [-1001585403777]
+        OWNER_ID = 1565545436
         
         # Google Drive Index Link should include the base dir also See readme for more info
-        GD_INDEX_URL = False
+        GD_INDEX_URL = True
 
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
@@ -42,10 +42,10 @@ except:
         #DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
         
         # MEGA CONFIG
-        MEGA_ENABLE = False
-        MEGA_API = ""
-        MEGA_UNAME = None
-        MEGA_PASS = None
+        MEGA_ENABLE = True
+        MEGA_API = "	2i4ExCJR"
+        MEGA_UNAME = captianhaddock6@gmail.com
+        MEGA_PASS = dxdiag123!@#
 
         # The base direcory to which the files will be upload if using RCLONE
         RCLONE_BASE_DIR = "/"
