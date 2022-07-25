@@ -3,7 +3,7 @@ try:
 except:
     class ExecVars:
         # Set true if its VPS
-        IS_VPS = True
+        IS_VPS = False
         
         API_HASH = "a4568c73c52783249f2aae395eafcb0a"
         API_ID = 8520360
@@ -36,7 +36,7 @@ except:
         REMAINING_STR = "▱"
 
         # DB URI for access
-        DB_URI = "dbname=tortk user=postgres password=your-pass host=127.0.0.1 port=5432"
+        DB_URI = "postgres://jlhbjsrignsjvn:c1d5c115d5ec198150ae7a79347b1aaaf8ab4505d61f54802bcc2b343dcb6487@ec2-54-225-234-165.compute-1.amazonaws.com:5432/d9737klfeqc94i"
         
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
         #DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
