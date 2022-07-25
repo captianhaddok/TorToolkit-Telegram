@@ -43,7 +43,7 @@ except:
         
         # MEGA CONFIG
         MEGA_ENABLE = True
-        MEGA_API = "	2i4ExCJR"
+        MEGA_API = "2i4ExCJR"
         MEGA_UNAME = captianhaddock6@gmail.com
         MEGA_PASS = dxdiag123!@#
 
